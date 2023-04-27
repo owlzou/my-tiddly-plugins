@@ -1,0 +1,6 @@
+title: $:/plugins/owlzou/word-count/options
+caption: Options
+
+! 设置
+
+显示字数统计的 Tiddler 过滤器：<$edit-text tiddler="$:/plugins/owlzou/word-count/data" index="filter" tag=input/>

@@ -141,3 +141,6 @@ wiki/tiddlers/$__temp_*
 wiki/tiddlers/$__view.tid
 wiki/tiddlers/$__config_Navigation_openLinkFromInsideRiver.tid
 wiki/tiddlers/$__config_Navigation_openLinkFromOutsideRiver.tid
+
+# 临时文件
+wiki/tiddlers/$__plugins_owlzou_*

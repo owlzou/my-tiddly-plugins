@@ -1,0 +1,6 @@
+title: $:/plugins/owlzou/word-count/data
+type: application/json
+
+{
+    "filter": "[all[current]tag[剧情]]"
+}

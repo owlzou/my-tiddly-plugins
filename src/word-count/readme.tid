@@ -1,0 +1,8 @@
+title: $:/plugins/owlzou/word-count/readme
+type: text/vnd.tiddlywiki
+
+! word-count
+
+字数统计插件，默认只显示在有`剧情`标签的 Tiddler 下（可在设置里修改）。
+
+只统计中文字符。

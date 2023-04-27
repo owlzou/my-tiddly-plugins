@@ -1,0 +1,9 @@
+{
+  "title": "$:/plugins/owlzou/word-count",
+  "name": "word-count",
+  "author": "owlzou",
+  "description": "字数统计插件",
+  "plugin-type": "plugin",
+  "version": "0.0.1",
+  "list": "readme options"
+}
