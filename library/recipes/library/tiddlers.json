@@ -1,0 +1,16 @@
+[
+    {
+        "title": "$:/plugins/owlzou/word-count",
+        "name": "word-count",
+        "author": "owlzou",
+        "description": "字数统计插件",
+        "plugin-type": "plugin",
+        "version": "0.0.1",
+        "list": "readme options",
+        "dependents": "",
+        "type": "application/json",
+        "Modern.TiddlyDev#SHA256-Hashed": "4bcbd5856cde4a4c73c5506756f7b0ce5482cb7d45025ead67b00e6ae2144963",
+        "readme": "! word-count\n\n字数统计插件，默认只显示在有`剧情`标签的 Tiddler 下（可在设置里修改）。\n\n只统计中文字符。",
+        "requires-reload": "yes"
+    }
+]
